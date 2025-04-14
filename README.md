@@ -15,19 +15,20 @@
 
 ### 🧠 Tech Stack
 
-```python
+
 # Languages & Scripting
-Languages = ["Python", "C++", "JavaScript", "Bash"]
-Python_Libraries = ["NumPy", "Pandas", "SymPy"]
+Languages : Python, C++, JavaScript, Bash
+Libraries : NumPy, Pandas, SymPy
 
 # Web Dev
-WebStack = ["MongoDB", "Express.js", "React.js", "Node.js"]
+WebStack : HTML, CSS, JavaScript, React, Firebase
 
 # Databases
-DBs = ["MySQL", "MongoDB"]
+DBs = MySQL
 
 # Other Tools
-Tools = ["Wireshark", "Metasploit", "Burp Suite", "Kali Linux", "Blender"]
+CyberSecurity : Wireshark, Metasploit, Burp Suite, Kali Linux
+Game Development and 3D Art : Blender. Unity
 
 
 <h3 align="left">Languages and Tools:</h3>
