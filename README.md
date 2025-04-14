@@ -1,4 +1,4 @@
-## Hello World! Fardeen Sameer Khan is here! 👋
+<h1 align="center"> Hello World! Fardeen Sameer Khan is here! </h1>
 
 <h3 align="center">A passionate CS student in Taylor's University</h3>
 
